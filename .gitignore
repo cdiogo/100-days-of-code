@@ -1,4 +1,4 @@
 .vscode
 **/build
-pkg/
-bin/
+pkg/*
+bin/*
