@@ -33,4 +33,4 @@ Signature will always contain 3 numbers; n will always be a non-negative number;
 
 ##### Notes
 
-I saw this exercise on [codewars](www.codewars.com) on a daily challenge.
+I saw this explanation about Tribonacci at [codewars](www.codewars.com) on a daily challenge, I believe that Tribonacci didn't really exist. But it will be a fun problem to solve.
