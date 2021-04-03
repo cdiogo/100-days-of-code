@@ -1,4 +1,16 @@
-##### Well met with Fibonacci bigger brother, AKA Tribonacci.
+### Challenge
+
+Create a function that receive 3 numbers and calculate the Tribonacci series (details below) using this 3 numbers. You need to ask the user how many positions will appear in series.
+
+**Example**
+
+You receive a sequence like `[1,2,3]` and the user ask to show 5 positions, the result will be:
+
+`[1, 2, 3, 6, 11]`
+
+---
+### Details about Tribonacci :D
+#### Well met with Fibonacci bigger brother, AKA Tribonacci.
 
 As the name may already reveal, it works basically like a Fibonacci, but summing the last 3 (instead of 2) numbers of the sequence to generate the next. And, worse part of it, regrettably I won't get to hear non-native Italian speakers trying to pronounce it :(
 
