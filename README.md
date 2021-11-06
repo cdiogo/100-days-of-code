@@ -1,6 +1,6 @@
 # 100-days-of-code
 
-trying to learn Go :D
+trying to learn a new language and unit tests.
 
 
 #### based
