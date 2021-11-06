@@ -17,5 +17,4 @@ class TestConvertToDays(unittest.TestCase):
     self.assertEqual(convert("oi"), "Please inform a valid number")
 
 if __name__ == "__main__":
-  unittest.main()
-  print("All tests passed")
+  unittest.main(verbosity=2)

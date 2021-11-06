@@ -10,5 +10,4 @@ class TestTribonacciSeries(unittest.TestCase):
     self.assertIsNotNone(calcTribonacci("1,2,3"), True)
 
 if __name__ == "__main__":
-  unittest.main()
-  print("All tests passed")
+  unittest.main(verbosity=2)
