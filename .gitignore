@@ -4,3 +4,4 @@ pkg/*
 bin/*
 
 **/*.pyc
+**/__pycache__
